@@ -29,6 +29,3 @@ public class StudentReader {
         return path;
     }
 }
-
-
-//    Create an object that will receive the path to this file and it will have a method that will read this file and return a list of StudentGrade

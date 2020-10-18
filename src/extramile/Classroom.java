@@ -63,13 +63,3 @@ public class Classroom {
         return new ArrayList<>(studentList);
     }
 }
-
-
-//    Have an object Classroom that will receive a list of StudentGrade and implement the following methods:
-//    x    - getGradesForDiscipline(String discipline) : List<Integer>
-//    x    - getGradesForStudent(String student) : StudentGrade
-//    x    - getMaxGrade(String discipline) :StudentGrade
-//    x    - getMaxGrade() : StudentGrade
-//    x    - getAverageGrade(String discipline) : Integer
-//    x    - getWorstGrade(String discipline) : StudentGrade
-//        Have a Main class that is printing the results nicely

@@ -20,9 +20,3 @@ public class Bouquet {
     }
 
 }
-
-
-//    Create an objects that model buquet of flowers. Each flower has to be unique. We don't care how the flowers are ordered
-//        - getAll(): Collection<String>  - returns all the flowers
-//        - add(String)    - adds a flower (remember to keep them unique)
-//        - remove(String) - removes a flower

@@ -58,12 +58,3 @@ public class Company {
         return persons;
     }
 }
-
-
-//  x  create a Person(name, age, position)
-//  x  create an object that models a Company 1 manager, the rest are welders, carpenters, plumbers
-//  x      - getManager(): Person  - checks all persons and returns the one with position "manager"
-//  x      - getPersons(String profession):List<Person>  - returns all the persons that have the received profession
-//  x      - getPersonsOlder(int age): List<Person> - returns all the persons that are older than received age
-//  x       - getPerson(String filterName):List<Person> - returns all the persons that have names that contains the received string
-//  x       - employ(Person) - employs a person. Adds it to the list of persons
